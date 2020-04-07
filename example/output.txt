@@ -1,0 +1,361 @@
+Plurality voting:
+	Individual votes:
+		abernad voted for Ariana
+		acshen voted for Cardi
+		agtyson voted for Ariana
+		ajwitt voted for Cardi
+		alvarop voted for Cardi
+		anmolk voted for Billie
+		balcells voted for Billie
+		boyangyu voted for Cardi
+		burchj voted for Billie
+		chloemf voted for Drake
+		desaine voted for Cardi
+		djwebb voted for Ariana
+		dmeklins voted for Billie
+		fabregas voted for Cardi
+		guifranc voted for Billie
+		hebasyed voted for Ariana
+		itsdfitz voted for Cardi
+		jahoch voted for Drake
+		jgjin voted for Cardi
+		joffir voted for Cardi
+		joshpw voted for Cardi
+		jptracey voted for Ariana
+		jrkucz voted for Ariana
+		kegord voted for Drake
+		linmic voted for Drake
+		maranz voted for Ariana
+		merzkayl voted for Billie
+		minsk voted for Ariana
+		mjcline voted for Drake
+		omlur voted for Billie
+		patelcap voted for Ariana
+		phelpsh voted for Cardi
+		rian voted for Billie
+		rohankh voted for Drake
+		rpela voted for Billie
+		rpuranam voted for Billie
+		smitash voted for Billie
+		smithin voted for Drake
+		suvarnat voted for Cardi
+		sytteroc voted for Ariana
+		tnwade voted for Ariana
+		toperez voted for Drake
+		valtanco voted for Billie
+		zahraahm voted for Cardi
+	Final vote counts:
+		Ariana received 11 votes
+		Billie received 12 votes
+		Cardi received 13 votes
+		Drake received 8 votes
+	Cardi wins under plurality voting
+Instant-runoff voting:
+	Round 1 (with candidates ['Ariana', 'Billie', 'Cardi', 'Drake']) individual votes:
+		abernad voted for Ariana
+		acshen voted for Cardi
+		agtyson voted for Ariana
+		ajwitt voted for Cardi
+		alvarop voted for Cardi
+		anmolk voted for Billie
+		balcells voted for Billie
+		boyangyu voted for Cardi
+		burchj voted for Billie
+		chloemf voted for Drake
+		desaine voted for Cardi
+		djwebb voted for Ariana
+		dmeklins voted for Billie
+		fabregas voted for Cardi
+		guifranc voted for Billie
+		hebasyed voted for Ariana
+		itsdfitz voted for Cardi
+		jahoch voted for Drake
+		jgjin voted for Cardi
+		joffir voted for Cardi
+		joshpw voted for Cardi
+		jptracey voted for Ariana
+		jrkucz voted for Ariana
+		kegord voted for Drake
+		linmic voted for Drake
+		maranz voted for Ariana
+		merzkayl voted for Billie
+		minsk voted for Ariana
+		mjcline voted for Drake
+		omlur voted for Billie
+		patelcap voted for Ariana
+		phelpsh voted for Cardi
+		rian voted for Billie
+		rohankh voted for Drake
+		rpela voted for Billie
+		rpuranam voted for Billie
+		smitash voted for Billie
+		smithin voted for Drake
+		suvarnat voted for Cardi
+		sytteroc voted for Ariana
+		tnwade voted for Ariana
+		toperez voted for Drake
+		valtanco voted for Billie
+		zahraahm voted for Cardi
+	Round 1 vote counts:
+		Ariana received 11 votes
+		Billie received 12 votes
+		Cardi received 13 votes
+		Drake received 8 votes
+	Candidate Drake removed
+	Round 2 (with candidates ['Ariana', 'Billie', 'Cardi']) individual votes:
+		abernad voted for Ariana
+		acshen voted for Cardi
+		agtyson voted for Ariana
+		ajwitt voted for Cardi
+		alvarop voted for Cardi
+		anmolk voted for Billie
+		balcells voted for Billie
+		boyangyu voted for Cardi
+		burchj voted for Billie
+		chloemf voted for Billie
+		desaine voted for Cardi
+		djwebb voted for Ariana
+		dmeklins voted for Billie
+		fabregas voted for Cardi
+		guifranc voted for Billie
+		hebasyed voted for Ariana
+		itsdfitz voted for Cardi
+		jahoch voted for Cardi
+		jgjin voted for Cardi
+		joffir voted for Cardi
+		joshpw voted for Cardi
+		jptracey voted for Ariana
+		jrkucz voted for Ariana
+		kegord voted for Billie
+		linmic voted for Ariana
+		maranz voted for Ariana
+		merzkayl voted for Billie
+		minsk voted for Ariana
+		mjcline voted for Billie
+		omlur voted for Billie
+		patelcap voted for Ariana
+		phelpsh voted for Cardi
+		rian voted for Billie
+		rohankh voted for Cardi
+		rpela voted for Billie
+		rpuranam voted for Billie
+		smitash voted for Billie
+		smithin voted for Billie
+		suvarnat voted for Cardi
+		sytteroc voted for Ariana
+		tnwade voted for Ariana
+		toperez voted for Billie
+		valtanco voted for Billie
+		zahraahm voted for Cardi
+	Round 2 vote counts:
+		Ariana received 12 votes
+		Billie received 17 votes
+		Cardi received 15 votes
+	Candidate Ariana removed
+	Round 3 (with candidates ['Billie', 'Cardi']) individual votes:
+		abernad voted for Billie
+		acshen voted for Cardi
+		agtyson voted for Cardi
+		ajwitt voted for Cardi
+		alvarop voted for Cardi
+		anmolk voted for Billie
+		balcells voted for Billie
+		boyangyu voted for Cardi
+		burchj voted for Billie
+		chloemf voted for Billie
+		desaine voted for Cardi
+		djwebb voted for Cardi
+		dmeklins voted for Billie
+		fabregas voted for Cardi
+		guifranc voted for Billie
+		hebasyed voted for Billie
+		itsdfitz voted for Cardi
+		jahoch voted for Cardi
+		jgjin voted for Cardi
+		joffir voted for Cardi
+		joshpw voted for Cardi
+		jptracey voted for Cardi
+		jrkucz voted for Billie
+		kegord voted for Billie
+		linmic voted for Billie
+		maranz voted for Billie
+		merzkayl voted for Billie
+		minsk voted for Billie
+		mjcline voted for Billie
+		omlur voted for Billie
+		patelcap voted for Cardi
+		phelpsh voted for Cardi
+		rian voted for Billie
+		rohankh voted for Cardi
+		rpela voted for Billie
+		rpuranam voted for Billie
+		smitash voted for Billie
+		smithin voted for Billie
+		suvarnat voted for Cardi
+		sytteroc voted for Cardi
+		tnwade voted for Cardi
+		toperez voted for Billie
+		valtanco voted for Billie
+		zahraahm voted for Cardi
+	Round 3 vote counts:
+		Billie received 23 votes
+		Cardi received 21 votes
+	One candidate received majority of votes, ending
+	Billie wins under instant-runoff voting
+Borda count voting:
+	Individual rankings:
+		abernad ranked (from most to least preferred) ['Ariana', 'Drake', 'Billie', 'Cardi']
+		acshen ranked (from most to least preferred) ['Cardi', 'Ariana', 'Drake', 'Billie']
+		agtyson ranked (from most to least preferred) ['Ariana', 'Cardi', 'Billie', 'Drake']
+		ajwitt ranked (from most to least preferred) ['Cardi', 'Ariana', 'Billie', 'Drake']
+		alvarop ranked (from most to least preferred) ['Cardi', 'Billie', 'Ariana', 'Drake']
+		anmolk ranked (from most to least preferred) ['Billie', 'Ariana', 'Cardi', 'Drake']
+		balcells ranked (from most to least preferred) ['Billie', 'Drake', 'Ariana', 'Cardi']
+		boyangyu ranked (from most to least preferred) ['Cardi', 'Drake', 'Ariana', 'Billie']
+		burchj ranked (from most to least preferred) ['Billie', 'Drake', 'Cardi', 'Ariana']
+		chloemf ranked (from most to least preferred) ['Drake', 'Billie', 'Ariana', 'Cardi']
+		desaine ranked (from most to least preferred) ['Cardi', 'Ariana', 'Drake', 'Billie']
+		djwebb ranked (from most to least preferred) ['Ariana', 'Cardi', 'Billie', 'Drake']
+		dmeklins ranked (from most to least preferred) ['Billie', 'Drake', 'Cardi', 'Ariana']
+		fabregas ranked (from most to least preferred) ['Cardi', 'Billie', 'Ariana', 'Drake']
+		guifranc ranked (from most to least preferred) ['Billie', 'Ariana', 'Drake', 'Cardi']
+		hebasyed ranked (from most to least preferred) ['Ariana', 'Billie', 'Drake', 'Cardi']
+		itsdfitz ranked (from most to least preferred) ['Cardi', 'Drake', 'Ariana', 'Billie']
+		jahoch ranked (from most to least preferred) ['Drake', 'Cardi', 'Billie', 'Ariana']
+		jgjin ranked (from most to least preferred) ['Cardi', 'Drake', 'Billie', 'Ariana']
+		joffir ranked (from most to least preferred) ['Cardi', 'Drake', 'Billie', 'Ariana']
+		joshpw ranked (from most to least preferred) ['Cardi', 'Ariana', 'Drake', 'Billie']
+		jptracey ranked (from most to least preferred) ['Ariana', 'Drake', 'Cardi', 'Billie']
+		jrkucz ranked (from most to least preferred) ['Ariana', 'Billie', 'Drake', 'Cardi']
+		kegord ranked (from most to least preferred) ['Drake', 'Billie', 'Cardi', 'Ariana']
+		linmic ranked (from most to least preferred) ['Drake', 'Ariana', 'Billie', 'Cardi']
+		maranz ranked (from most to least preferred) ['Ariana', 'Drake', 'Billie', 'Cardi']
+		merzkayl ranked (from most to least preferred) ['Billie', 'Ariana', 'Drake', 'Cardi']
+		minsk ranked (from most to least preferred) ['Ariana', 'Drake', 'Billie', 'Cardi']
+		mjcline ranked (from most to least preferred) ['Drake', 'Billie', 'Ariana', 'Cardi']
+		omlur ranked (from most to least preferred) ['Billie', 'Ariana', 'Drake', 'Cardi']
+		patelcap ranked (from most to least preferred) ['Ariana', 'Cardi', 'Drake', 'Billie']
+		phelpsh ranked (from most to least preferred) ['Cardi', 'Ariana', 'Billie', 'Drake']
+		rian ranked (from most to least preferred) ['Billie', 'Drake', 'Cardi', 'Ariana']
+		rohankh ranked (from most to least preferred) ['Drake', 'Cardi', 'Billie', 'Ariana']
+		rpela ranked (from most to least preferred) ['Billie', 'Drake', 'Ariana', 'Cardi']
+		rpuranam ranked (from most to least preferred) ['Billie', 'Cardi', 'Drake', 'Ariana']
+		smitash ranked (from most to least preferred) ['Billie', 'Drake', 'Cardi', 'Ariana']
+		smithin ranked (from most to least preferred) ['Drake', 'Billie', 'Ariana', 'Cardi']
+		suvarnat ranked (from most to least preferred) ['Cardi', 'Drake', 'Billie', 'Ariana']
+		sytteroc ranked (from most to least preferred) ['Ariana', 'Drake', 'Cardi', 'Billie']
+		tnwade ranked (from most to least preferred) ['Ariana', 'Drake', 'Cardi', 'Billie']
+		toperez ranked (from most to least preferred) ['Drake', 'Billie', 'Ariana', 'Cardi']
+		valtanco ranked (from most to least preferred) ['Billie', 'Ariana', 'Drake', 'Cardi']
+		zahraahm ranked (from most to least preferred) ['Cardi', 'Ariana', 'Billie', 'Drake']
+	Final points:
+		Ariana received 67 points
+		Billie received 68 points
+		Cardi received 60 points
+		Drake received 69 points
+	Drake wins under Borda count voting
+Approval voting:
+	Average preference score of 24.99 used as baseline approval
+	Individual approvals:
+		abernad approved ['Ariana', 'Drake']
+		acshen approved ['Ariana', 'Cardi']
+		agtyson approved ['Ariana', 'Cardi']
+		ajwitt approved ['Ariana', 'Cardi']
+		alvarop approved ['Billie', 'Cardi']
+		anmolk approved ['Ariana', 'Billie']
+		balcells approved ['Ariana', 'Billie', 'Drake']
+		boyangyu approved ['Cardi', 'Drake']
+		burchj approved ['Billie', 'Drake']
+		chloemf approved ['Billie', 'Drake']
+		desaine approved ['Ariana', 'Cardi']
+		djwebb approved ['Ariana', 'Billie', 'Cardi']
+		dmeklins approved ['Billie', 'Drake']
+		fabregas approved ['Billie', 'Cardi']
+		guifranc approved ['Ariana', 'Billie']
+		hebasyed approved ['Ariana']
+		itsdfitz approved ['Cardi']
+		jahoch approved ['Cardi', 'Drake']
+		jgjin approved ['Cardi', 'Drake']
+		joffir approved ['Cardi', 'Drake']
+		joshpw approved ['Cardi']
+		jptracey approved ['Ariana', 'Drake']
+		jrkucz approved ['Ariana', 'Billie']
+		kegord approved ['Billie', 'Drake']
+		linmic approved ['Ariana', 'Drake']
+		maranz approved ['Ariana', 'Drake']
+		merzkayl approved ['Ariana', 'Billie', 'Drake']
+		minsk approved ['Ariana', 'Drake']
+		mjcline approved ['Billie', 'Drake']
+		omlur approved ['Ariana', 'Billie']
+		patelcap approved ['Ariana', 'Cardi']
+		phelpsh approved ['Ariana', 'Cardi']
+		rian approved ['Billie', 'Drake']
+		rohankh approved ['Cardi', 'Drake']
+		rpela approved ['Ariana', 'Billie', 'Drake']
+		rpuranam approved ['Billie', 'Cardi', 'Drake']
+		smitash approved ['Billie']
+		smithin approved ['Billie', 'Drake']
+		suvarnat approved ['Cardi', 'Drake']
+		sytteroc approved ['Ariana', 'Drake']
+		tnwade approved ['Ariana', 'Drake']
+		toperez approved ['Ariana', 'Billie', 'Drake']
+		valtanco approved ['Billie']
+		zahraahm approved ['Ariana', 'Cardi']
+	Final points:
+		Ariana received 24 points
+		Billie received 21 points
+		Cardi received 19 points
+		Drake received 25 points
+	Drake wins under approval voting
+Positive-negative voting:
+	Individual votes:
+		abernad voted +1 for Ariana, -1 for Cardi
+		acshen voted +1 for Cardi, -1 for Billie
+		agtyson voted +1 for Ariana, -1 for Drake
+		ajwitt voted +1 for Cardi, -1 for Drake
+		alvarop voted +1 for Cardi, -1 for Drake
+		anmolk voted +1 for Billie, -1 for Drake
+		balcells voted +1 for Billie, -1 for Cardi
+		boyangyu voted +1 for Cardi, -1 for Billie
+		burchj voted +1 for Billie, -1 for Ariana
+		chloemf voted +1 for Drake, -1 for Cardi
+		desaine voted +1 for Cardi, -1 for Billie
+		djwebb voted +1 for Ariana, -1 for Drake
+		dmeklins voted +1 for Billie, -1 for Ariana
+		fabregas voted +1 for Cardi, -1 for Ariana
+		guifranc voted +1 for Billie, -1 for Cardi
+		hebasyed voted +1 for Ariana, -1 for Cardi
+		itsdfitz voted +1 for Cardi, -1 for Ariana
+		jahoch voted +1 for Drake, -1 for Ariana
+		jgjin voted +1 for Cardi, -1 for Ariana
+		joffir voted +1 for Cardi, -1 for Ariana
+		joshpw voted +1 for Cardi, -1 for Billie
+		jptracey voted +1 for Ariana, -1 for Billie
+		jrkucz voted +1 for Ariana, -1 for Cardi
+		kegord voted +1 for Drake, -1 for Ariana
+		linmic voted +1 for Drake, -1 for Cardi
+		maranz voted +1 for Ariana, -1 for Cardi
+		merzkayl voted +1 for Billie, -1 for Cardi
+		minsk voted +1 for Ariana, -1 for Cardi
+		mjcline voted +1 for Drake, -1 for Cardi
+		omlur voted +1 for Billie, -1 for Cardi
+		patelcap voted +1 for Ariana, -1 for Billie
+		phelpsh voted +1 for Cardi, -1 for Drake
+		rian voted +1 for Billie, -1 for Ariana
+		rohankh voted +1 for Drake, -1 for Ariana
+		rpela voted +1 for Billie, -1 for Cardi
+		rpuranam voted +1 for Billie, -1 for Ariana
+		smitash voted +1 for Billie, -1 for Ariana
+		smithin voted +1 for Drake, -1 for Cardi
+		suvarnat voted +1 for Cardi, -1 for Ariana
+		sytteroc voted +1 for Ariana, -1 for Billie
+		tnwade voted +1 for Ariana, -1 for Billie
+		toperez voted +1 for Drake, -1 for Cardi
+		valtanco voted +1 for Billie, -1 for Cardi
+		zahraahm voted +1 for Cardi, -1 for Drake
+	Final vote counts:
+		Ariana received -2 votes
+		Billie received 4 votes
+		Cardi received -3 votes
+		Drake received 1 votes
+	Billie wins under positive-negative voting
